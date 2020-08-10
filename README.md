@@ -6,4 +6,4 @@ Repository includes the Python file used to scrape the course schedules website,
 
 This project was used as an opportunity to practise data scraping using Python and using . The ggrepel package used to label data points.
 
-##NOTE: Due to Western introducing wait lists in the 2020-21 term, this repository is no longer useful
+## NOTE: Due to Western introducing wait lists in the 2020-21 term, this repository is no longer useful
